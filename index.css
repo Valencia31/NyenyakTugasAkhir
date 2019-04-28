@@ -1,0 +1,183 @@
+body{
+  width:100%;
+  overflow-x:hidden;
+}
+  ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: whitesmoke;
+    left: 0;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 97%; /* Full width */
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  li {
+    float: right;
+  }
+  .link:hover{
+    color:rgb(196, 110, 223);
+  }
+  .link:hover{
+    color:rgb(196, 110, 223);
+  }
+  .link:hover{
+    color:rgb(196, 110, 223);
+  }
+  .link:hover{
+    color:rgb(196, 110, 223);
+  }
+  
+  li a {
+    display: block;
+    color: hotpink
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.img{
+    float: left;
+    width: 150px;
+    padding: 5px;
+}
+.bg-background{
+  height:100%;
+  width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("pantai.jpg");
+    
+}  
+.gambar{
+  margin-top:8%;
+  margin-left:35%;
+  margin-bottom:2%;
+  margin-right:35%;
+  width:30%;
+  height:15%;
+
+}
+.tulisan{
+  color:black;
+  margin-top:0%;
+  margin-left:45%;
+  margin-bottom:2%;
+  margin-right:15%;
+}
+.fasilitas{
+ width:100%;
+ height:100px;
+ float:center;
+ position:flex;
+ margin-top:0p%;
+ background-image:url(tmblr.jpg);
+}
+.img1{
+  margin-top:0%;
+  margin-left:48%;
+  margin-right:48%;
+}
+.p{
+  float:center;
+  font-size:26px;
+  color:black;
+  margin-left: 35%;
+  margin-right:5%;
+}
+.p1{
+  float:center;
+  font-size:24px;
+  color:black;
+  margin-left:38%;
+  margin-right:28%;
+}
+.p2{
+  float:center;
+  font-size:27px;
+  color:black;
+  margin-left:35%;
+  margin-right: 26%;
+}
+.location{
+  width:100%;
+ height:100px;
+ float:center;
+ position:flex;
+ margin-top:2px;
+ background-image:url(y.jpg);
+}
+.img2{
+  margin-top:1%;
+  margin-left:49%;
+  margin-right:48%;
+}
+.p3{
+  float:center;
+  color:black;
+  font-size:28px;
+  margin-left:30%;
+  margin-right: 10%;
+}
+.p4{
+  float:center;
+  color:black;
+  font-size: 26px;
+  margin-left:35%;
+  margin-right:10%;
+}
+.p5{
+  float:center;
+  color:black;
+  font-size:25px;
+  margin-left:40%;
+  margin-right:10%;
+}
+.alasan{
+  width:100%;
+ height:50px;
+ float:center;
+ position:flex;
+ margin-top:2px;
+ background-image:url(b.jpg);
+}
+.p6{
+  margin-left:40%;
+}
+.img3{
+  margin-left:10%;
+  
+}
+.p7{
+  margin-bottom:3%;
+}
+.img4{
+  margin-right:10%;
+  margin-bottom:5%;
+}
+.p8{
+  margin-bottom:1%;
+  margin-left:64%;
+}
+.img5{
+  margin-left:10%;
+  margin-bottom:5%;
+}
+.p9{
+  margin-bottom:1%;
+  margin-right:64%;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  background-image:url(tmblr.jpg);
+  color: black;
+  text-align: center;
+}
